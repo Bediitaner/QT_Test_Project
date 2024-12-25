@@ -7,7 +7,7 @@ Window {
     width: 1280
     height: 720
     visible: true
-    title: qsTr("Tesla")
+    title: qsTr("Elektroland")
 
     LeftScreen{
         id: leftScreen
