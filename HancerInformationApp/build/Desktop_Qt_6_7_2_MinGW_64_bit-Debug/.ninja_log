@@ -1,0 +1,13 @@
+# ninja log v6
+15	203	7568389268584724	.qt/qml_imports/HancerInformationApp_build.cmake	9e1430d5e0ef2079
+204	325	7568389269313052	HancerInformationApp_autogen/timestamp	e14c5f635b02d192
+204	325	7568389269313052	HancerInformationApp_autogen/mocs_compilation.cpp	e14c5f635b02d192
+29	65	7568389981978293	HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp	51b974d9fafa0543
+15	203	7568389268584724	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/HancerInformationApp_build.cmake	9e1430d5e0ef2079
+204	325	7568389269313052	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/HancerInformationApp_autogen/mocs_compilation.cpp	e14c5f635b02d192
+204	325	7568389269313052	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/HancerInformationApp_autogen/timestamp	e14c5f635b02d192
+29	65	7568389981978293	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp	51b974d9fafa0543
+373	1463	7568389270313922	CMakeFiles/HancerInformationApp.dir/main.cpp.obj	c18a9e2eaae7c6e2
+371	399	7568389270293990	CMakeFiles/HancerInformationApp.dir/HancerInformationApp_autogen/mocs_compilation.cpp.obj	b019bef66fc9f747
+65	175	7568389982038041	CMakeFiles/HancerInformationApp.dir/HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2b5a4feb0ec724c1
+176	270	7568389983139778	HancerInformationApp.exe	feff9b5c4fcb9c38

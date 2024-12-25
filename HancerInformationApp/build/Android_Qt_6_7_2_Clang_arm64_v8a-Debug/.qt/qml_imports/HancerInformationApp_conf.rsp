@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp
+-cmake-output
+-output-file
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/.qt/qml_imports/HancerInformationApp_conf.cmake
+-importPath
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug
+-importPath
+C:/Qt/6.7.2/android_arm64_v8a/./qml

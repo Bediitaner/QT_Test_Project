@@ -1,0 +1,10 @@
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/HancerInformationApp.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/HancerInformationApp_qmlimportscan.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/edit_cache.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/rebuild_cache.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/list_install_components.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/install.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/install/local.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/install/strip.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/HancerInformationApp_autogen_timestamp_deps.dir
+C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-new/CMakeFiles/HancerInformationApp_autogen.dir

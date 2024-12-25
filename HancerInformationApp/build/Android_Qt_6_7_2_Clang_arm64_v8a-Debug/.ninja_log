@@ -1,0 +1,14 @@
+# ninja log v6
+182	1339	7568388293140946	CMakeFiles/HancerInformationApp.dir/main.cpp.o	197b88ca64ad4db2
+14	138	7568388292203643	HancerInformationApp_autogen/mocs_compilation.cpp	6c10c95ba97ba8d1
+180	214	7568388293120645	CMakeFiles/HancerInformationApp.dir/HancerInformationApp_autogen/mocs_compilation.cpp.o	168fd9f5a9991094
+142	179	7568388293061143	HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp	157d1ac1cf27ad83
+14	138	7568388292203643	HancerInformationApp_autogen/timestamp	6c10c95ba97ba8d1
+14	138	7568388292203643	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/HancerInformationApp_autogen/timestamp	6c10c95ba97ba8d1
+14	138	7568388292203643	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/HancerInformationApp_autogen/mocs_compilation.cpp	6c10c95ba97ba8d1
+142	179	7568388293061143	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp	157d1ac1cf27ad83
+184	221	7568388293168917	CMakeFiles/HancerInformationApp.dir/HancerInformationApp_autogen/EWIEGA46WW/qrc_qml.cpp.o	8d423ee9d8d027a2
+1342	1412	7568388304743098	libHancerInformationApp_arm64-v8a.so	3a172729f87076d5
+1412	1438	7568388305446320	CMakeFiles/HancerInformationApp_prepare_apk_dir	a1f82258bed8a4cf
+1412	1438	7568388305446320	C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/CMakeFiles/HancerInformationApp_prepare_apk_dir	a1f82258bed8a4cf
+18	966	7568407039324243	build.ninja	42049533e8775f3

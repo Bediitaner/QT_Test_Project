@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-03eb975b42c77cdaced7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HancerInformationApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp-Debug-de3ab4ad26f1174198df.json",
+					"name" : "HancerInformationApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp_autogen-Debug-8838184920d645160583.json",
+					"name" : "HancerInformationApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp_autogen_timestamp_deps-Debug-9a44920be1e63e9700ca.json",
+					"name" : "HancerInformationApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp_make_aab-Debug-676a5351469d113ae4fe.json",
+					"name" : "HancerInformationApp_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp_make_apk-Debug-6a5b21d58dea523a6e2c.json",
+					"name" : "HancerInformationApp_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HancerInformationApp_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HancerInformationApp_prepare_apk_dir-Debug-19bdc421f3a8a447d92e.json",
+					"name" : "HancerInformationApp_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-19de9863d2868b3cd283.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-5d3bc75d57c3ef3b89ff.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-f5b384a0ba4c442981d6.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-0032b655269bd9ae8a23.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-bc978730b9630f1793a5.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug",
+		"source" : "C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

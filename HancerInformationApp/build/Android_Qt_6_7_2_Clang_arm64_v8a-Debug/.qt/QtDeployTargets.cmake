@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_HancerInformationApp_FILE C:/Users/HalitTaner/Desktop/Halit/HancerInformationApp/build/Android_Qt_6_7_2_Clang_arm64_v8a-Debug/libHancerInformationApp_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_HancerInformationApp_TYPE MODULE_LIBRARY)
