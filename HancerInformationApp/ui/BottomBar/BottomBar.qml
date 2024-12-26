@@ -14,11 +14,11 @@ Rectangle{
         id: robotSettings
         anchors{
             left: parent.left
-            leftMargin: 30
+            leftMargin: 5
             verticalCenter: parent.verticalCenter
         }
 
-        height: parent.height * .85
+        height: parent.height
         fillMode: Image.PreserveAspectFit
 
         source: "qrc:/ui/assets/icon_robot.png"

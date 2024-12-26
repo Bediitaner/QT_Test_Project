@@ -6,5 +6,7 @@
         <file>ui/BottomBar/BottomBar.qml</file>
         <file>ui/assets/hancerclean.png</file>
         <file>ui/assets/icon_robot.png</file>
+        <file>ui/assets/icon_locked.png</file>
+        <file>ui/assets/icon_unlocked.png</file>
     </qresource>
 </RCC>

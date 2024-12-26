@@ -67,6 +67,61 @@ Rectangle{
                 onActivated: map.zoomLevel = Math.round(map.zoomLevel - 1)
             }
         }
+        Image {
+            id: lockIcon
+            anchors{
+                left: parent.left
+                top: parent.top
+                margins: 20
+            }
+            width: parent.width / 40
+            source: { systemHandler.carLocked ? "qrc:/ui/assets/icon_locked.png" : "qrc:/ui/assets/icon_unlocked.png"}
+            MouseArea{
+                anchors.fill: parent
+                onClicked: systemHandler.setCarLocked(!systemHandler.carLocked)
+            }
+            fillMode: Image.PreserveAspectFit
+        }
+
+        Text {
+            id: dateTimeDisplay
+            anchors{
+                left: lockIcon.right
+                leftMargin: 20
+                bottom: lockIcon.bottom
+            }
+            font.pixelSize: 15
+            font.bold: true
+            color: "black"
+            text: systemHandler.currentTime
+        }
+
+
+        Text {
+            id: outdoorTemp
+            anchors{
+                left: dateTimeDisplay.right
+                leftMargin: 20
+                bottom: dateTimeDisplay.bottom
+            }
+            font.pixelSize: 15
+            font.bold: true
+            color: "black"
+            text: systemHandler.outdoorTemp + "°" + "C"
+        }
+
+        Text {
+            id: userName
+            anchors{
+                left: outdoorTemp.right
+                leftMargin: 20
+                bottom: outdoorTemp.bottom
+            }
+            font.pixelSize: 15
+            font.bold: true
+            color: "black"
+            text: systemHandler.userName
+        }
 
     width: parent.width * 2/3
 }
